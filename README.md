@@ -17,7 +17,7 @@ Desarrollador Colombiano especializado en Java/Springboot, construyendo mi mejor
 #
 
 <details>
- <summary><h3>👨‍💻 La trayectoria de Yeison Cordoba</h3></summary>
+ <summary><h3>👨‍💻 Mi Trayectoria </h3></summary>
    Inicie a investigar del mundo del desarrollo en el año 2019, la curiosidad de ver como se creaban las aplicaciones en las que estaba navegando cada dia en mi rutina diaria me llevo a buscar como se creaban cada una de ellas, empece a ver cursos de programacion y empece mi camino con la ruta del Front End con Html Css y JavaScript, decidi ingresas a una universidad para completar mis conomientos ya en un entorno profesional, en ese lugar aprendi sobre el trabajo en equipo y la responsabilidad que se lleva cada proyecto aun asi segui viendo cursos para mi formacion continua y decidi epecializarme en el entorno Java con Spring Boot y seguir una ruta que me lleve a ser un master en ella. 
 
 

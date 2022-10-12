@@ -12,13 +12,12 @@ Desarrollador Colombiano especializado en Java/Springboot, construyendo mi mejor
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
 #
 
 <details>
  <summary><h3>👨‍💻 La trayectoria de Yeison Cordoba</h3></summary>
-   Empence a investigar del mundo del desarrollo en el año 2019, la curiosidad de ver como se creaban las aplicaciones en las que estaba navegando cada dia me llevo a buscar como se creaban, empece a ver cursos de programacion y empece mi camino con la ruta del Front End con Html Css y JavaScript
+   Inicie a investigar del mundo del desarrollo en el año 2019, la curiosidad de ver como se creaban las aplicaciones en las que estaba navegando cada dia en mi rutina diaria me llevo a buscar como se creaban cada una de ellas, empece a ver cursos de programacion y empece mi camino con la ruta del Front End con Html Css y JavaScript, decidi ingresas a una universidad para completar mis conomientos ya en un entorno profesional, en ese lugar aprendi sobre el trabajo en equipo y la responsabilidad que se lleva cada proyecto aun asi segui viendo cursos para mi formacion continua y decidi epecializarme en el entorno Java con Spring Boot y seguir una ruta que me lleve a ser un master en ella. 
 
 
            

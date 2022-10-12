@@ -17,7 +17,7 @@ Desarrollador Colombiano especializado en Java/Springboot, construyendo mi mejor
 #
 
 <details>
- <summary><h3>👨‍💻 La trayectoria de Teison Cordoba</h3></summary>
+ <summary><h3>👨‍💻 La trayectoria de Yeison Cordoba</h3></summary>
    Empence a investigar del mundo del desarrollo en el año 2019, la curiosidad de ver como se creaban las aplicaciones en las que estaba navegando cada dia me llevo a buscar como se creaban, empece a ver cursos de programacion y empece mi camino con la ruta del Front End con Html Css y JavaScript
 
 

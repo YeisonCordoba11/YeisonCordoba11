@@ -1,4 +1,4 @@
-Desarrollador Colombiano especializado en Java/Springboot, construyendo mi mejor version digital paso a paso, todo lo que se sueña, se planifica y todo l oque se planifica se lleva a la obra, los desarrolladores somos obreros en el mundo digital y estamos para llevar lo mejor de nuestra profesion al mundo de hoy 
+Desarrollador Colombiano especializado en Java/Springboot, construyendo mi mejor version digital paso a paso, todo lo que se sueña, se planifica y todo lo que se planifica se lleva a la obra, los desarrolladores somos obreros en el mundo digital y estamos para llevar lo mejor de nuestra profesion al mundo de hoy 
 
 ### 🧰 Languages and Tools
 

@@ -1,5 +1,5 @@
 # Yeison Cordoba
-**`Java Developer / Spring Boot`**
+**`Java Developer / Spring Boot`** <br>
 Desarrollador Colombiano especializado en Java/Springboot, construyendo mi mejor version digital paso a paso, todo lo que se sueña, se planifica y todo l oque se planifica se lleva a la obra, los desarrolladores somos obreros en el mundo digital y estamos para llevar lo mejor de nuestra profesion al mundo de hoy 
 
 ### 🧰 Lenguajes
@@ -12,6 +12,7 @@ Desarrollador Colombiano especializado en Java/Springboot, construyendo mi mejor
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
 
 #
 

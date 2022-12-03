@@ -1,5 +1,5 @@
 # Yeison Cordoba
-**`Tester QA | Automatizacion | Java`** <br>
+**`Developer | Tester QA |`** <br>
 Desarrollador Colombiano especializado en QA Tester, construyendo mi mejor version digital paso a paso, todo lo que se sueña, se planifica y todo lo que se planifica se lleva a la obra, Capacitado para llevar a cabo cada proyecto que me sea entregado, los desarrolladores somos obreros en el mundo digital y estamos para llevar lo mejor de nuestra profesion al mundo de hoy 
 
 ### 🧰 Lenguajes
@@ -15,7 +15,7 @@ Desarrollador Colombiano especializado en QA Tester, construyendo mi mejor versi
 
 <details>
  <summary><h3>👨‍💻 Sobre mi</h3></summary>
-   Inicie a investigar del mundo del desarrollo en el año 2019, la curiosidad de ver como se creaban las aplicaciones en las que estaba navegando cada dia en mi rutina diaria me llevo a buscar como se creaban cada una de ellas, empece a ver cursos de programacion y empece mi camino con la ruta del Front End con Html Css y JavaScript, decidi ingresas a una universidad para completar mis conomientos ya en un entorno profesional, en ese lugar aprendi sobre el trabajo en equipo y la responsabilidad que se lleva cada proyecto aun asi segui viendo cursos para mi formacion continua y decidi epecializarme en el entorno Java y seguir una ruta que me lleve a ser un master en ella. eh decidido continuar el camino de ser un QA y ser experto en la rama del testing
+   Inicie a investigar del mundo del desarrollo en el año 2019, la curiosidad de ver como se creaban las aplicaciones en las que estaba navegando cada dia en mi rutina diaria me llevo a buscar como se creaban cada una de ellas, empece a ver cursos de programacion y empece mi camino con la ruta del Front End con Html Css y JavaScript, decidi ingresas a una universidad para completar mis conomientos ya en un entorno profesional, en ese lugar aprendi sobre el trabajo en equipo y la responsabilidad que se lleva cada proyecto aun asi segui viendo cursos para mi formacion continua y decidi epecializarme en el entorno del desarollo y seguir una ruta que me lleve a ser un master en ella. 
 
 
            

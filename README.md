@@ -1,11 +1,10 @@
 # Yeison Cordoba
-**`Developer | Tester QA |`** <br>
-Desarrollador Colombiano especializado en QA Tester, construyendo mi mejor version digital paso a paso, todo lo que se sueña, se planifica y todo lo que se planifica se lleva a la obra, Capacitado para llevar a cabo cada proyecto que me sea entregado, los desarrolladores somos obreros en el mundo digital y estamos para llevar lo mejor de nuestra profesion al mundo de hoy 
+**`React Developer`** <br>
+Desarrollador Colombiano especializado en FrontEnd, construyendo mi mejor version digital paso a paso, todo lo que se sueña, se planifica y todo lo que se planifica se lleva a la obra, Capacitado para llevar a cabo cada proyecto que me sea entregado, los desarrolladores somos obreros en el mundo digital y estamos para llevar lo mejor de nuestra profesion al mundo de hoy 
 
 ### 🧰 Lenguajes
 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
           
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />

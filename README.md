@@ -1,36 +1,26 @@
-# Yeison Cordoba
-**`React Developer`** <br>
-Desarrollador Colombiano especializado en FrontEnd, construyendo mi mejor version digital paso a paso, todo lo que se sueña, se planifica y todo lo que se planifica se lleva a la obra, Capacitado para llevar a cabo cada proyecto que me sea entregado, los desarrolladores somos obreros en el mundo digital y estamos para llevar lo mejor de nuestra profesion al mundo de hoy 
+¡Por supuesto! Aquí tienes un ejemplo de un README.md para un perfil de GitHub como desarrollador Front End especializado en React, con experiencia en HTML, CSS, SASS, JavaScript, React, Next.js, Responsive Design, Git, GitHub y Cypress:
 
-### 🧰 Lenguajes
+# ¡Hola! Soy [Yeison Andres Parra Cordoba]
 
+## Desarrollador Front End especializado en React
 
-          
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado desarrollador Front End con experiencia en la creación de aplicaciones web modernas y responsivas utilizando tecnologías como HTML, CSS, SASS, JavaScript, React, Next.js y Cypress. Mi objetivo es ofrecer experiencias de usuario excepcionales y asegurar la calidad del código mediante el uso de buenas prácticas de desarrollo y control de versiones.
 
-<img align="left" alt="Sass" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+### Habilidades técnicas
 
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+### 🧰 Lenguajes <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="left" alt="Sass" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> <img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /> <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> <br>
 
-<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-          
-          
-          
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<br>
+### Experiencia
 
-#
-
-<details>
- <summary><h3>👨‍💻 Sobre mi</h3></summary>
-   Inicie a investigar del mundo del desarrollo en el año 2019, la curiosidad de ver como se creaban las aplicaciones en las que estaba navegando cada dia en mi rutina diaria me llevo a buscar como se creaban cada una de ellas, empece a ver cursos de programacion y empece mi camino con la ruta del Front End con Html Css y JavaScript, decidi ingresas a una universidad para completar mis conomientos ya en un entorno profesional, en ese lugar aprendi sobre el trabajo en equipo y la responsabilidad que se lleva cada proyecto aun asi segui viendo cursos para mi formacion continua y decidi epecializarme en el entorno del desarollo y seguir una ruta que me lleve a ser un master en ella. 
+Durante mi trayectoria profesional, he trabajado en diversos proyectos como desarrollador Front End, donde he tenido la oportunidad de aplicar mis conocimientos en el desarrollo de interfaces de usuario atractivas y funcionales. He colaborado estrechamente con equipos multidisciplinarios y he contribuido al éxito de los proyectos mediante la implementación de soluciones creativas y eficientes.
 
 
-           
+### Contacto
 
+¡Estoy abierto a nuevas oportunidades y colaboraciones emocionantes! Si deseas discutir proyectos, compartir ideas o simplemente conectarte, no dudes en contactarme a través de los siguientes medios:
 
+- Correo electrónico: yeisoncordoba672@gmail.com
+- LinkedIn: https://www.linkedin.com/in/yeison-cordoba-b99487206/
+
+Gracias por visitar mi perfil de GitHub. ¡Espero tener la oportunidad de trabajar juntos y seguir creciendo como desarrollador Front End!
 
